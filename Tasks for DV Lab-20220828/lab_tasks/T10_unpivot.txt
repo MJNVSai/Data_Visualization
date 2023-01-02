@@ -1,0 +1,41 @@
+Years,1994,1995,1996,1997,1998
+Unit Sales,286322,253787,155483,246491,130602
+Total Revenue,1145288,761361,310966,65301,66301
+
+1. create a text file with the above data and from power bi connect it and open the 
+query editor
+
+2. in transform tab select first row as header
+
+3. select columns other than year columns and in tranform tab select 
+unpivot other columns
+
+4. select first column which contains unit sales ,total revenue and click on pivot
+set the values column as value column ,then click ok
+
+5. Rename the column to year,sales and revenue
+
+-----------------------------------------------------------------------------------
+Transpose:
+
+implementing above task using transpose also
+
+1. connect data
+2. in transfom tab clcik on transpose and select use first row as header 
+3. renaming the columns to year,sales and revenue
+4. add the following row in to the file
+Total Revenue,11000,34000,56000,78000
+and save the file
+
+5. Referesh the home tab
+
+6. it will automatically displays total revenue
+
+
+
+
+
+
+
+
+

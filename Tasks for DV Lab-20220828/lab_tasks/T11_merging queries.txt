@@ -1,0 +1,12 @@
+1. Merge employee and department tables 
+
+2. select both tables in to query editor
+
+3. under home tab select Merge Queries as New
+
+4. select emp,dept tables and select common keys
+
+5. select type of join query
+
+6. click ok
+

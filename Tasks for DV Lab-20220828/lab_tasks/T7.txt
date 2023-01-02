@@ -1,0 +1,14 @@
+Task:
+
+Load any Data 
+and then classify Data by condion column
+
+ex: load emp data classify based on salary
+
+ex :load student data and then classify based on age group
+
+ex: In sales data if sales amount gt than 1 lakh good otherwise ok 
+
+
+
+

@@ -1,0 +1,6 @@
+perform group by operations on employee data
+
+perform group by operations on orders data
+
+perform group by operations on mtcarsdata
+

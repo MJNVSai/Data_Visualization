@@ -1,0 +1,23 @@
+1. select blank query 
+
+2. in fx write follwing date generation code
+
+
+
+= List.Dates(#date(2021,01,01),Number.From(DateTime.LocalNow())-Number.From(#date(2015,01,01)),#duration(1,0,0,0))
+
+3. convert in to Table
+
+
+4. close and apply
+
+
+
+-----------------------------------------------------
+
+Go to Transform Data
+select Add column and add index column
+After that add conditional column by set conditions.
+
+
+
